@@ -1,5 +1,5 @@
 {
-  "name": "garnetstar/Hello-Word",
+  "name": "garnetstar/hello-word",
   "require": {
       "php" : ">=5.3.2",
       "nette/nette": "~2.1.0"
